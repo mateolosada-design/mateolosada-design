@@ -9,4 +9,4 @@ Systems Engineer and Front-End Developer with 4 years of experience specializing
 - *DevOps:* Docker, Git, GitHub
 
 ## Connect with me
-- *LinkedIn:* www.linkedin.com/in/mateo-alejandro-losada-ordoñez-560a1343b # mateolosada-desig
+- *LinkedIn:* www.linkedin.com/in/mateo-alejandro-losada-ordoñez-560a1343b # mateolosada-design
